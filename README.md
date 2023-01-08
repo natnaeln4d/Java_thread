@@ -1,2 +1,2 @@
 # Java_thread
-Thread impletimation
+Thread Implementation
